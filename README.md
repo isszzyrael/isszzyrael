@@ -80,9 +80,9 @@ const israelAdebayo = {
 
 ### 📫 How to reach me
 - 💼 LinkedIn: https://www.linkedin.com/in/isszzyrael
-- 🐦 Twitter: [https://x.com/IamLeerael]
+- 🐦 Twitter: https://x.com/IamLeerael
 - 📧 Email: israeladebayoai@gmail.com
-- 🌐 Portfolio: [Your Portfolio Website]
+- 🌐 Portfolio: www.isszzyrael.com
 
 ### ⚡ Fun facts
 - 🎯 I love turning complex problems into simple, beautiful designs
