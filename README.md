@@ -79,9 +79,9 @@ const israelAdebayo = {
 - Performance optimization
 
 ### 📫 How to reach me
-- 💼 LinkedIn: https://www.linkedin.com/in/isszzyrael/
-- 🐦 Twitter: [@your_twitter]
-- 📧 Email: your.email@example.com
+- 💼 LinkedIn: https://www.linkedin.com/in/isszzyrael
+- 🐦 Twitter: [https://x.com/IamLeerael]
+- 📧 Email: israeladebayoai@gmail.com
 - 🌐 Portfolio: [Your Portfolio Website]
 
 ### ⚡ Fun facts
