@@ -2,7 +2,7 @@
 
 ## 🚀 Frontend Developer | React Enthusiast
 
-Welcome to my GitHub profile! I'm a passionate frontend developer with a focus on creating beautiful, responsive, and user-friendly web applications using React and modern web technologies.
+Welcome to my GitHub profile! I'm a passionate Frontend Developer with a focus on creating beautiful, responsive, and user-friendly web applications using React and modern web technologies.
 
 ### 🔭 What I'm currently working on
 - Building dynamic React applications with modern hooks and state management
