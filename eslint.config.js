@@ -23,9 +23,15 @@ export default tseslint.config(
         'warn',
         { allowConstantExport: true },
       ],
-    
-      '@typescript-eslint/no-unused-vars': 'off',
+      // Option 1: Ignore React variable specifically (recommended)
+      '@typescript-eslint/no-unused-vars': [
+        'error',
+        {
+          varsIgnorePattern: '^React$',
+        }
+      ],
       'no-unused-vars': 'off',
+      
     },
   },
 )

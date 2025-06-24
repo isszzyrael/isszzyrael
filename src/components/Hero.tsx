@@ -1,7 +1,9 @@
-import NavBar from "./NavBar";
+import { useState } from "react";
 import { letters } from "../data";
+import NavBar from "./NavBar";
 
 const Hero = () => {
+    const [hoveredLetter, setHoverLetter] = useState(null)
   return (
     <div className="w-full h-screen flex flex-col justify-center items-center">
       <NavBar />
@@ -11,14 +13,13 @@ const Hero = () => {
             {letters.map((letter, index) => (
               <span
                 key={index}
-                className="inline-block md:w-38 w-32 xl:-mr-20 -mr-24"
-              >
-                {letter.char}
+                className="inline-block md:w-38 w-32 xl:-mr-20" onMouseEnter={() => setHoverLetter(index)} onMouseLeave={() => setHoverLetter(null)}>                
                 <img
                   src={letter.img}
                   alt={`Hover image ${index + 1}`}
-                  className="xl:h-36 h-24 absolute bottom-full"
+                  className={`xl:h-36 h-24 bottom-full -translate-x-1/2 ${letter.rotate} ${hoveredLetter === index ? 'visible' : 'invisible'}`}
                 />
+                {letter.char}
               </span>
             ))}
           </span>
