@@ -100,6 +100,8 @@ const israelAdebayo = {
 
 ### 🎨 Featured Projects
 <!-- Add your best projects here -->
+- **[Renegan Admin App](https://dev-admin.renegan.com/)** - Comprehensive financial application with admin dashboard for managing transactions, users, and analytics.
+- **[Renegan Main App](https://dev-app.renegan.com/)** - Comprehensive financial application with admin dashboard for managing transactions, users, and analytics.
 - **[SKIT - E-Commerce Platform](https://skit.ng/)** - Full-featured e-commerce platform for electronics and gadgets
 - **[Medipret - Healthcare Platform](https://medipret.com/)** - Modern healthcare management system providing seamless patient care and medical services.
 - **[Sweet Sensation](https://sweetsensation.ng/home)** - E-commerce platform for Confectionery and online ordering.
