@@ -100,9 +100,12 @@ const israelAdebayo = {
 
 ### 🎨 Featured Projects
 <!-- Add your best projects here -->
-- **[Project Name 1](link)** - Brief description of your amazing React project
-- **[Project Name 2](link)** - Another cool project you've built
-- **[Project Name 3](link)** - Yet another impressive creation
+- **[SKIT - E-Commerce Platform](https://skit.ng/)** - Full-featured e-commerce platform for electronics and gadgets
+- **[Medipret - Healthcare Platform](https://medipret.com/)** - Modern healthcare management system providing seamless patient care and medical services.
+- **[Sweet Sensation](https://sweetsensation.ng/home)** - E-commerce platform for Confectionery and online ordering.
+- **[Foremost Radiology](https://foremostradiology.com/)** - Professional medical radiology center website with appointment.
+- **[Bellpoint Energies](https://www.bellpointenergies.com/)** - Corporate website for Downstream sectors and general procurement.
+- **[Refuel Energy Nigeria](https://www.refuelenergyng.com)** - Modern energy company platform delivering sustainable energy solutions across Nigeria.
 
 ---
 
