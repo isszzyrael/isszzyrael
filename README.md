@@ -82,7 +82,7 @@ const israelAdebayo = {
 - 💼 LinkedIn: https://www.linkedin.com/in/isszzyrael
 - 🐦 Twitter: https://x.com/IamLeerael
 - 📧 Email: israeladebayoai@gmail.com
-- 🌐 Portfolio: www.isszzyrael.com
+- 🌐 Portfolio: https://israel-adebayo-portfolio.vercel.app
 
 ### ⚡ Fun facts
 - 🎯 I love turning complex problems into simple, beautiful designs
