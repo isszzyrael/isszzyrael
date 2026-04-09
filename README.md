@@ -1,8 +1,15 @@
-# Hi there, I'm Israel Adebayo 👋
+<h1 align="center">Hi, I'm Israel Adebayo 👋</h1>
 
-## 🚀 Frontend Developer | React Enthusiast
+<p align="center">
+  🚀 Frontend Developer | ⚛️ React Specialist | 🖥️ IT Support & System Administration
+</p>
 
-Welcome to my GitHub profile! I'm a passionate Frontend Developer with a focus on creating beautiful, responsive, and user-friendly web applications using React and modern web technologies.
+## 👨‍💻 About Me
+
+I'm a results-driven **Frontend Developer** with a strong foundation in **React and modern web technologies**, combined with hands-on experience in **IT support and system administration**.
+I specialize in building **scalable, responsive, and user-focused applications**, while also understanding the **infrastructure and systems that power them**.
+
+💡 I enjoy solving real-world problems whether it's optimizing frontend performance or troubleshooting system issues.
 
 ### 🔭 What I'm currently working on
 - Building dynamic React applications with modern hooks and state management
@@ -23,11 +30,28 @@ const israelAdebayo = {
   styling: ["Tailwind CSS", "Styled Components", "SASS"],
   tools: ["Git", "Webpack", "Vite", "npm/yarn"],
   databases: ["Firebase", "MongoDB"],
-  currentFocus: "Building scalable React applications"
+  systemAdmin: [
+    "Windows Administration",
+    "Linux Basics",
+    "Networking Fundamentals",
+    "System Troubleshooting",
+    "Remote Support Tools"
+  ],
+  currentFocus: "Bridging frontend engineering with IT infrastructure."
 };
 ```
 
 ### 🛠️ Technologies & Tools
+
+🖥️ IT & System Administration Skills
+* 🖥️ Operating Systems: Windows, Linux (Ubuntu, CentOS basics)
+* 🌐 Networking: TCP/IP, DNS, DHCP, VPN configuration, basic routing & troubleshooting
+* 🔐 Security: User access control, permissions, basic cybersecurity practices
+* 🧰 System Tools: Remote Desktop, SSH, TeamViewer, AnyDesk
+* 🗄️ Server Management: Basic server setup, monitoring, and maintenance
+* ☁️ Cloud Basics: Familiar with AWS & cloud deployment concepts
+* 🛠️ Troubleshooting: Hardware & software diagnostics, system performance optimization
+* 💾 Backup & Recovery: Data backup strategies and system restore processes
 
 **Frontend:**
 - ⚛️ React.js & React Hooks
@@ -66,6 +90,7 @@ const israelAdebayo = {
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isszzyrael&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)</div>
 
 ### 👯 Looking to collaborate on
+- IT support tools and system automation scripts
 - React-based open source projects
 - Frontend mentorship programs
 - Innovative web applications
@@ -77,6 +102,8 @@ const israelAdebayo = {
 - JavaScript ES6+ features
 - Responsive web design
 - Performance optimization
+- System troubleshooting & IT support
+- Basic networking and system setup
 
 ### 📫 How to reach me
 - 💼 LinkedIn: https://www.linkedin.com/in/isszzyrael
@@ -92,7 +119,7 @@ const israelAdebayo = {
 
 ---
 
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+*"Code is like humor. When you have to explain it, it's bad."   Cory House*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=isszzyrael&color=blueviolet)
 
