@@ -135,6 +135,7 @@ const israelAdebayo = {
 - **[Foremost Radiology](https://foremostradiology.com/)** - Professional medical radiology center website with appointment.
 - **[Bellpoint Energies](https://www.bellpointenergies.com/)** - Corporate website for Downstream sectors and general procurement.
 - **[Refuel Energy Nigeria](https://www.refuelenergyng.com)** - Modern energy company platform delivering sustainable energy solutions across Nigeria.
+- **[Rekindlee](https://www.rekindlee.com)** - A new model for recovery built for the underserved.
 
 ---
 
